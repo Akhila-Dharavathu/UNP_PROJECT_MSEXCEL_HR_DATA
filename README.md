@@ -14,6 +14,6 @@ Completed this project as a part of Value Added Course with United Network profe
 
 - Here also I have given insights for controlling the attrition .
 
-  PDF LINK: https://www.canva.com/design/DAF76O7dN-0/GGkUE4aCikPvZc4Gt9OyEg/view?utm_content=DAF76O7dN-0&utm_campaign=designshare&utm_medium=link&utm_source=editor
+  PDF LINK: https://drive.google.com/file/d/1LpkH9wFU9QEKZbTLFb8k99R_-e_8ArHk/view?usp=sharing
 
-  EXCEL LINK : https://docs.google.com/spreadsheets/d/1wfzxZHfF05ls93suPvQdNkVCkPHXW3iSQW2muU52ElM/edit?usp=drivesdk
+  EXCEL LINK : https://docs.google.com/spreadsheets/d/1wfzxZHfF05ls93suPvQdNkVCkPHXW3iSQW2muU52ElM/edit?usp=sharing
