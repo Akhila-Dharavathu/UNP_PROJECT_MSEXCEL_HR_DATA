@@ -1,8 +1,8 @@
 # UNP_PROJECT_MSEXCEL_HR_DATA
 
-KEY HIGHLIGHTS :-
-
 Completed this project as a part of Value Added Course with United Network professionals (UNP). In this project I got the vast data off HR Employee attrition data.
+
+KEY HIGHLIGHTS :-
 
 - I have simplified the vast data into simple understandable tables, charts, graphs.. which can give idea about the each subsets of the data
 - In the data attrition is by various causes like :- 
